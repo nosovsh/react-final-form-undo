@@ -1,0 +1,30 @@
+{
+  "name": "react-final-form-undo",
+  "version": "0.0.1",
+  "description": "Simple undo/redo functionality for react-final-form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosovsh/react-final-form-undo.git"
+  },
+  "keywords": [
+    "react",
+    "final-form",
+    "react-final-form",
+    "forms"
+  ],
+  "author": "Alexander Nosov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosovsh/react-final-form-undo/issues"
+  },
+  "homepage": "https://github.com/nosovsh/react-final-form-undo#readme",
+  "peerDependencies": {
+    "final-form": "^4.18.6",
+    "react-final-form": "^6.3.3",
+    "react": "^16.4.0"
+  }
+}
