@@ -1,6 +1,6 @@
 {
   "name": "react-final-form-undo",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Simple undo/redo functionality for react-final-form",
   "main": "build/index.js",
   "scripts": {
