@@ -41,14 +41,15 @@ const useUndo = () => {
   );
 
   useFormState({
+    subscription: {values: true},
+    onChange: onValuesChange,
+  });
+
+  useFormState({
     subscription: {initialValues: true},
     onChange: onInitialValuesChange,
   });
 
-  useFormState({
-    subscription: {values: true},
-    onChange: onValuesChange,
-  });
 
   return {
     undo: (e) => {
