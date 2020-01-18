@@ -2,7 +2,7 @@
 Simple Undo/redo component and hook for 
 [react-final-form](https://github.com/final-form/react-final-form "react-final-form project page")
 
-## Examples
+## Demo
 
 https://nosovsh.github.io/react-final-form-undo/
 
@@ -77,6 +77,6 @@ const {canUndo, canRedo, undo, redo} = useUndo();
  - Undo stack is cleared when initial values are changed. So if you want your undo stack to be cleared after form save - set initial values to a new values. See [example](../master/example/src/App.js).
  
 ## TODO:
- - tests
- - fix known bug that undo stack is not cleared when you roll back to the beginning and then change submit form
+ - implement tests
+ - fix known bug that undo stack is not cleared when you roll back to the beginning and then submit form
  - clear undo stack after `reset` and `initialize` methods call
