@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.e93f74b2.chunk.js",
-    "main.js.map": "/static/js/main.e93f74b2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.56a8ef0a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.56a8ef0a.js.map",
-    "static/js/2.a289934c.chunk.js": "/static/js/2.a289934c.chunk.js",
-    "static/js/2.a289934c.chunk.js.map": "/static/js/2.a289934c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a44b5a55aca93047134d37b4eea30ee3.js": "/precache-manifest.a44b5a55aca93047134d37b4eea30ee3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.a289934c.chunk.js.LICENSE": "/static/js/2.a289934c.chunk.js.LICENSE"
+    "main.js": "/react-final-form-undo/static/js/main.e93f74b2.chunk.js",
+    "main.js.map": "/react-final-form-undo/static/js/main.e93f74b2.chunk.js.map",
+    "runtime-main.js": "/react-final-form-undo/static/js/runtime-main.a6ae9c4f.js",
+    "runtime-main.js.map": "/react-final-form-undo/static/js/runtime-main.a6ae9c4f.js.map",
+    "static/js/2.a289934c.chunk.js": "/react-final-form-undo/static/js/2.a289934c.chunk.js",
+    "static/js/2.a289934c.chunk.js.map": "/react-final-form-undo/static/js/2.a289934c.chunk.js.map",
+    "index.html": "/react-final-form-undo/index.html",
+    "precache-manifest.d3d283e969949172aefca4dcdd139e73.js": "/react-final-form-undo/precache-manifest.d3d283e969949172aefca4dcdd139e73.js",
+    "service-worker.js": "/react-final-form-undo/service-worker.js",
+    "static/js/2.a289934c.chunk.js.LICENSE": "/react-final-form-undo/static/js/2.a289934c.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.56a8ef0a.js",
+    "static/js/runtime-main.a6ae9c4f.js",
     "static/js/2.a289934c.chunk.js",
     "static/js/main.e93f74b2.chunk.js"
   ]
